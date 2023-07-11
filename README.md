@@ -1,5 +1,4 @@
-# TelebotPost
-AutoPosting last releases to Telegram chanel for TorrentPier-II
+# AutoPosting last releases to Telegram chanel for TorrentPier-II
 
 The mod allows you to take the latest posts, title, poster, description, link from the database and post to your telegram channel.
 
